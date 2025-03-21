@@ -1,5 +1,5 @@
 // Your OGADS LINK!!
-var ogads_link = "https://drive-thirdparty.googleusercontent.com/128/type/application/zip";
+var ogads_link = "https://optidownloader.com/script_include.php?id=1794242";
 
 // تعطيل الشروط المؤقتة للاختبار
 console.log("OGAds link set to:", ogads_link);
